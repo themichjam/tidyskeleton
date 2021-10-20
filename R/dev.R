@@ -10,4 +10,4 @@ use_r("skeletons")
 #> • Call `use_test()` to create a matching test file
 
 load_all()
-
+check()
